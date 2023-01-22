@@ -23,10 +23,5 @@ jobs:
          
       - name: Step 4 - List the current directory
         run: ls -a
-        
-      - name: Step 5 - Target folder
-        run: 
-          cd target
-          la -a 
-      
+            
             
