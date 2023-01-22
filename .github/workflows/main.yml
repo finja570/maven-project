@@ -23,5 +23,3 @@ jobs:
          
       - name: Step 4 - List the current directory
         run: ls -a
-            
-            
